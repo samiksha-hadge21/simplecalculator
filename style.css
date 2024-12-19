@@ -1,0 +1,14 @@
+div{
+    width: fit-content;
+    border: 1px solid black;
+    padding: 20px;
+    
+}
+button{
+    background-color: blanchedalmond;
+
+}
+input{
+    height: 50px;
+    width: 300px;
+}
